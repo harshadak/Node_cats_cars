@@ -1,0 +1,9 @@
+body {
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+div.cars, div.cats, img {
+    margin: 0 auto;
+}
